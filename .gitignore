@@ -1,0 +1,10 @@
+node_modules/
+client/dist/
+.env
+server/.env
+*.log
+test.txt
+
+preview*.png
+
+server/.demo-account.txt
